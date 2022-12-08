@@ -1,6 +1,6 @@
 import Counter from "./Counter";
 
-const App = () =>{
+const App = () => {
     return <Counter/>
 }
 
